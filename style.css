@@ -1,0 +1,38 @@
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+}
+.note
+{
+  font-size: 15px;
+  color: black;
+}
+body
+{
+  background-size: cover;	
+  font-family: 'DynaPuff', cursive;
+
+}
+  #song
+  {
+  	font-size: 23px;
+  	margin: 15px;
+  }
+  .copy_right_footer {
+    position: fixed;
+    color: #ffffff;
+    bottom: 0;
+    width: 100%;
+    background-color:rgb(39, 13, 13);
+    line-height: 2.5;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+  }  
+    canvas 
+  {
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px #d87395;
+  }
